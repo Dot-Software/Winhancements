@@ -2,7 +2,7 @@
 						  Installation
 ===========================================================================================================
 
-- To begin installation, open 'Release.exe'
+- To begin installation, run 'Release.exe'
 - Select your desired install location.
 - Launch 'Winhancements.exe' from the folder you chose. From now on, Winhancements will load on startup.
 
